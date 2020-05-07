@@ -33,7 +33,7 @@
 Чтобы создать консольное приложение, требуется
 <ol>
   <li>Запустить Visual Studio</li>
-  ![Начало работы](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img1.1.jpg?raw=true)<br/>
+  ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img1.1.jpg?raw=true)<br/>
   Рис1.1. Начало работы.
   <li>Создать новый проект, а именно 'Консольное приложение'</li>
   ![Создание консольного приложения](Images/Img1.2.png)<br/>
