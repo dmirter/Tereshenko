@@ -33,25 +33,25 @@
 Чтобы создать консольное приложение, требуется
 <ol>
   <li>Запустить Visual Studio</li>
-  ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img1.1.jpg?raw=true)<br/>
+  ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img1.1.jpg)<br/>
   Рис1.1. Начало работы.
   <li>Создать новый проект, а именно 'Консольное приложение'</li>
-  ![Создание консольного приложения](Images/Img1.2.png)<br/>
+  ![Создание консольного приложения](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img1.2.jpg)<br/>
   Рис1.2. Создание консольного приложения.
   <li>Настройка нового проекта</li>
-  ![Настройка нового проекта](Images/Img1.3.png)<br/>
+  ![Настройка нового проекта](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img1.3.jpg)<br/>
   Рис1.3. Настройка новго проекта.
   <li>Консольное приложение готово!</li>
-  ![Завершение создания консольного приложения](/Images/Img1.4.png)<br/>
+  ![Завершение создания консольного приложения](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img1.4.jpg)<br/>
   Рис1.4. Результат.
   </ol>
 <li>Как изменить цветовую схему (оформление) среды?</li>
 <ol>
   <li>Во вкладке 'средства' выбираем пункт 'параметры'</li>
-  ![выбираем пункт параметры](Laboratory 1/Images/Img2.1.png)<br/>
+  ![выбираем пункт параметры](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img2.1.jpg)<br/>
   Рис2.1.Выбираем пункт параметры.
   <li>В пункте 'Общие' находим параметр 'Цветовая тема'</li>
-  ![Находим параметр "Цветовая тема"](/Images/Img2.2.png)<br/>
+  ![Находим параметр "Цветовая тема"](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%201/Images/Img2.2.jpg)<br/>
   Рис2.2.Находим параметр "Цветовая тема".
   <li>Выбираем желаемый цвет</li>
   ![Выбираем желаемый цвет](/Images/Рис2.3.png)<br/>
