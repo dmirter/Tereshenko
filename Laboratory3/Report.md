@@ -30,18 +30,18 @@
 #### Ход работы
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
 
-Рис. 1. Картинка для декодирования
-
-![](hhttps://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
-
-Рис. 2. Ключ
+Рис. 1. Ключ
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/img3.png)
 
+Рис. 2. Картинка для декодирования
 
-Рис. 3. Добавляем и подключаем библиотеку
+![](hhttps://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
 
-Напишем программу для выполенения поставленной задачи:
+
+Рис. 3. Подключение библиотеки
+
+Код:
 ```c++
 #include "iostream"
 #include "libbmp.h"
@@ -115,8 +115,8 @@ int main() {
 ```
 Запустим программу и получим следующее сообщение:
 
-![](https://raw.githubusercontent.com/PraiseTheSun-0/Practice/master/Lab3/Lab3/Screenshots/Screenshot_4.png)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/img4.png)
 
 Рис. 5. Вывод
 
-#### Вывод: я закрепил навыки разработки программ использующих операторы цикла, массивы, освоил методы подключения сторонних библиотек.
+#### Вывод: я закрепил навыки в разработке программ,которые используют операторы цикла и массивы а также освоил методы подключения сторонних библиотек.
