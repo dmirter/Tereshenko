@@ -36,13 +36,10 @@
 
 Рис. 2. Ключ
 
-![](https://raw.githubusercontent.com/PraiseTheSun-0/Practice/master/Lab3/Lab3/Screenshots/Screenshot_2.png)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/img3.png)
 
-Рис. 3. Создаём include с libbmp.h
 
-![](https://raw.githubusercontent.com/PraiseTheSun-0/Practice/master/Lab3/Lab3/Screenshots/Screenshot_3.png)
-
-Рис. 4. Добавляем и подключаем библиотеку
+Рис. 3. Добавляем и подключаем библиотеку
 
 Напишем программу для выполенения поставленной задачи:
 ```c++
