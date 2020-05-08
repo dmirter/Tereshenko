@@ -28,15 +28,15 @@
 *Освоить методы подключения сторонних библиотек.
 
 #### Ход работы
-![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/img3.png)
 
 Рис. 1. Ключ
 
-![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/img3.png)
+![](hhttps://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
 
 Рис. 2. Картинка для декодирования
 
-![](hhttps://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/img2.png)
 
 
 Рис. 3. Подключение библиотеки
@@ -117,6 +117,6 @@ int main() {
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/img4.png)
 
-Рис. 5. Вывод
+Рис. 4. Результат работы.
 
 #### Вывод: я закрепил навыки в разработке программ,которые используют операторы цикла и массивы а также освоил методы подключения сторонних библиотек.
