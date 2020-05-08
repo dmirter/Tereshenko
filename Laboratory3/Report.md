@@ -28,7 +28,7 @@
 *Освоить методы подключения сторонних библиотек.
 
 #### Ход работы
-![](https://raw.githubusercontent.com/PraiseTheSun-0/Practice/master/Lab3/Lab3/pic10.bmp)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
 
 Рис. 1. Картинка для декодирования
 
