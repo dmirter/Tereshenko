@@ -32,7 +32,7 @@
 
 Рис. 1. Ключ
 
-![](hhttps://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
 
 Рис. 2. Картинка для декодирования
 
