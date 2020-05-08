@@ -32,7 +32,7 @@
 
 Рис. 1. Картинка для декодирования
 
-![](https://raw.githubusercontent.com/PraiseTheSun-0/Practice/master/Lab3/Lab3/Screenshots/Screenshot_1.png)
+![](hhttps://github.com/dmirter/Tereshenko/blob/master/Laboratory3/Img/pic10.bmp)
 
 Рис. 2. Ключ
 
