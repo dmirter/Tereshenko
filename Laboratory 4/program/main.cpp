@@ -8,38 +8,38 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
     srand(time(0));
-    char choose;
-    cout << "Õ èëè 0?: ";
-    cin >> choose;
-    while (choose != 'X' && choose != '0') 
+    char s;
+    cout << "Ã• Ã¨Ã«Ã¨ 0?: ";
+    cin >> s;
+    while (s != 'X' && s != '0') 
     {
-       cout << "Õ èëè 0?: ";
+       cout << "Ã• Ã¨Ã«Ã¨ 0?: ";
        cin >> choose;
     }
-    Game mainGame = initGame(choose);
-    while (!updateGame(&mainGame))
+    Game game = initGame(s);
+    while (!updateGame(&game))
     {
-        if (mainGame.isUserTurn)
+        if (game.isUserTurn)
         {
-            userTurn(&mainGame);
+            userTurn(&game);
         }
         else
         {
-            botTurn(&mainGame);
+            botTurn(&game);
         }
 
-        updateDisplay(mainGame);
+        updateDisplay(game);
     }
-    if (mainGame.status == USER_WIN)
+    if (game.status == USER_WIN)
     {
-        cout << "Ïîáåäà";
+        cout << "ÃÃ®Ã¡Ã¥Ã¤Ã ";
     }
-    else if (mainGame.status == BOT_WIN)
+    else if (game.status == BOT_WIN)
     {
-        cout << "Ïîðàæåíèå";
+        cout << "ÃÃ®Ã°Ã Ã¦Ã¥Ã­Ã¨Ã¥";
     }
     else
     {
-        cout << "Íè÷üÿ";
+        cout << "ÃÃ¨Ã·Ã¼Ã¿";
     }
 }
