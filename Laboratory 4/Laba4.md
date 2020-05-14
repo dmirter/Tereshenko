@@ -374,33 +374,33 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
     srand(time(0));
-    char choose;
+    char s;
     cout << "Х или 0?: ";
-    cin >> choose;
-    while (choose != 'X' && choose != '0')
+    cin >> s;
+    while (s != 'X' && s != '0')
     {
        cout << "Х или 0?: ";
-       cin >> choose;
+       cin >> s;
     }
-    Game mainGame = initGame(choose);
-    while (!updateGame(&mainGame))
+    Game game = initGame(s);
+    while (!updateGame(&game))
     {
-        if (mainGame.isUserTurn)
+        if (game.isUserTurn)
         {
-            userTurn(&mainGame);
+            userTurn(&game);
         }
         else
         {
-            botTurn(&mainGame);
+            botTurn(&game);
         }
 
-        updateDisplay(mainGame);
+        updateDisplay(game);
     }
-    if (mainGame.status == USER_WIN)
+    if (game.status == USER_WIN)
     {
         cout << "Победа";
     }
-    else if (mainGame.status == BOT_WIN)
+    else if (mgame.status == BOT_WIN)
     {
         cout << "Поражение";
     }
