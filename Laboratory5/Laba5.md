@@ -216,7 +216,7 @@ int main()
 
 }
 ```
-2. Ссылка на файл с результатом:
+2. Ссылка на файл с результатом:https://github.com/dmirter/Tereshenko/blob/master/Laboratory5/program/%D0%92%D1%8B%D0%B2%D0%BE%D0%B4.txt
 
 3.Рассчитанные характеристики
 | Характеристика | Результат |
