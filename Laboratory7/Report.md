@@ -112,23 +112,23 @@
 
 16. Выбираем "calculatorform.ui"
 
-![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/15.png)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/14.png)
 
 Рис. 15. Calculatorform.ui
 
 17. Вкладка `Дизайн`.
 
-![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/16.png)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/15.png)
 
 Рис. 16. `Дизайн` "calculatorform"
 
 Заменяем английский текст  и собираем проект.
 
-![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/17.png)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/16.png)
 
 Рис. 17. Замена текста
 
-![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/18.png)
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/17.png)
 
 Рис. 18. Запускаем проект
 
