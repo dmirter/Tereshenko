@@ -31,62 +31,61 @@
 
 Рис. 1. Создание проекта
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/2.png)
 
 Рис. 2. Выбор проекта без Qt
 
 2) Для того чтобы поменять тему нужно нажать `Инструменты -> Параметры -> Среда` и выбрать нужную тему.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/3.png)
 
 Рис. 3. Войти в параметры
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/4.png)
 
 Рис. 4. Изменить тему
 
 3. Для того чтобы закоментировать код можно выделить его, а затем выбрать `Закомментировать` или использовать комбинацию клавиш `Ctrl+/`.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/5.png)
 
 Рис. 5. Комментирование кода
 
 4. Для того чтобы открыть файл в проводнике нужно выбрать нужный файл в панели открытых проектов и выбрать `Показать в проводнике`.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/6.png)
 
 Рис. 6. Открытие файла в проводнике
 
 5. В Qt для файлов-проектов используется расширение `.pro`.
 
-
 6. Для того чтобы запустить код без отладки можно использовать  кнопку снизу слева в виде зеленого треугольника без жучка ( рис. 7.) или нажать `Ctrl+R`.
 
 7. Для того чтобы запустить код с отладкой можно использовать  кнопку снизу слева в виде зеленого треугольника с жучком ( рис. 7.) или нажать `F5`.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/7.png)
 
 Рис. 7. Запуск кода
 
 8. Для того чтобы установить точку останова можно нажать на поле рядом с номером строчки кода или установить курсор на нужную строчку и нажать `F9`.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/8.png)
 
 Рис. 8. Установка точки останова
 
 9. Содаём программу с полученным кодом, устанавливаем точки останова, запускаем код в режиме отладки.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/9.png)
 
 Рис. 9. Запуск кода, первая остановка
 
  int при создании содержит 0, а double мусор.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/10.png)
 
 Рис. 10. Вторая точка останова
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/11.png)
 
 Рис. 11. Третья точка останова
 
@@ -96,41 +95,41 @@
 13. Выбираем комплект сборки.
 14. Переходим на вкладку `Редактор` и начинаем сборку.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/12.png)
 
 Рис. 12. Сборка проекта
 
 15. Выбираем "main.cpp" и устанавливаем курсор на слово show.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/13.png)
 
 Рис. 13. Main.cpp
 
 Нажимаем `F1`и открывается справка.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/14.png)
 
 Рис. 14.  Справка
 
 16. Выбираем "calculatorform.ui"
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/15.png)
 
 Рис. 15. Calculatorform.ui
 
 17. Вкладка `Дизайн`.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/16.png)
 
 Рис. 16. `Дизайн` "calculatorform"
 
 Заменяем английский текст  и собираем проект.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/17.png)
 
 Рис. 17. Замена текста
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/18.png)
 
 Рис. 18. Запускаем проект
 
