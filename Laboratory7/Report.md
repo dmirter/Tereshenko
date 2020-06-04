@@ -99,15 +99,14 @@
 
 Рис. 12. Сборка проекта
 
-15. Выбираем "main.cpp" и устанавливаем курсор на слово show.
-
-![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/13.png)
-
-Рис. 13. Main.cpp
-
-Нажимаем `F1`и открывается справка.
+15. Выбираем "main.cpp".
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/14.png)
+
+Рис. 13. Main.cpp
+Уустанавливаем курсор на слово show нажимаем `F1`и открывается справка.
+
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/13.png)
 
 Рис. 14.  Справка
 
