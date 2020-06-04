@@ -100,33 +100,32 @@
 Рис. 12. Сборка проекта
 
 
-
-устанавливаем курсор на слово show нажимаем `F1`и открывается справка.
+Устанавливаем курсор на слово show нажимаем `F1`и открывается справка.
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/13.png)
 
-Рис. 14.  Справка
+Рис. 13.  Справка
 
 15. Выбираем "calculatorform.ui"
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/14.png)
 
-Рис. 15. Calculatorform.ui
+Рис. 14. Calculatorform.ui
 
 16. Вкладка `Дизайн`.
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/15.png)
 
-Рис. 16. `Дизайн` "calculatorform"
+Рис. 15. `Дизайн` "calculatorform"
 
 Заменяем английский текст  и собираем проект.
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/16.png)
 
-Рис. 17. Замена текста
+Рис. 16. Замена текста
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/17.png)
 
-Рис. 18. Запускаем проект
+Рис. 17. Запускаем проект
 
 #### Вывод: В ходе выполнения лабораторной работы я изучил основные возможности создания и отладки программ в Qt. Узнал как можно поменять оформление, как найти файлы проекта, научился коментировать, а так же запускать код в режиме отладки и без.
