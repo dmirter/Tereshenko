@@ -99,24 +99,21 @@
 
 Рис. 12. Сборка проекта
 
-15. Выбираем "main.cpp".
 
-![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/14.png)
 
-Рис. 13. Main.cpp
-Уустанавливаем курсор на слово show нажимаем `F1`и открывается справка.
+устанавливаем курсор на слово show нажимаем `F1`и открывается справка.
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/13.png)
 
 Рис. 14.  Справка
 
-16. Выбираем "calculatorform.ui"
+15. Выбираем "calculatorform.ui"
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/14.png)
 
 Рис. 15. Calculatorform.ui
 
-17. Вкладка `Дизайн`.
+16. Вкладка `Дизайн`.
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory7/img/15.png)
 
