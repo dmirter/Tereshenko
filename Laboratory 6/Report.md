@@ -95,7 +95,7 @@ int main()
 ```
 3. Результат
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%206/Img/1.png)
 
 рис 1. Вывод.
 
