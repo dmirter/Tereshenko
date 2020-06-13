@@ -30,19 +30,19 @@
 
 1. Установка SDK нужной версии.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%208/img/1.png)
 
 рис 1. SDK
 
 2.Настройка QT
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%208/img/2.png)
 
 рис 2. Настройка
 
 3. Запуск рандомного приложения
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%208/img/3.png)
 
 рис 3. Проект
 
