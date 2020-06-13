@@ -29,23 +29,23 @@
 
 1) Проверка на работоспообность пустого тестового проекта
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%209/img/1.png)
 
 рис1. Проверка через консоль.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%209/img/2.png)
 
 рис2. Проверка через QT.
 
 2) Настройка тестового проекта
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%209/img/3.png)
 
 рис3. Вставленная строка
 
 3) Конечный результат.
 
-![]()
+![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%209/img/4.png)
 
 рис 4. Вывод.
 
