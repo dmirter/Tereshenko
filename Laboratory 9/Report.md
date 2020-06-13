@@ -27,6 +27,10 @@
 * Изучить базовые понятия относящийся к тестированию кода;
 * Научиться тестировать классы в среде разработки Qt Creator.
 
+#### Ход работы
+
+Исходные файлы: [*тык*](https://github.com/dmirter/Tereshenko/tree/master/Laboratory%209/Program)
+ 
 1. Проверка на работоспообность пустого тестового проекта
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%209/img/1.png)
