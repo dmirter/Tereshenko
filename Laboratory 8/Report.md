@@ -32,18 +32,18 @@
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%208/img/1.png)
 
-рис 1. SDK
+    рис 1. SDK
 
 2.Настройка QT
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%208/img/2.png)
 
-рис 2. Настройка
+    рис 2. Настройка
 
 3. Запуск рандомного приложения
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%208/img/3.png)
 
-рис 3. Проект
+    рис 3. Проект
 
 #### Цель: В ходе выполнения лабораторной работы был настроен IDE Qt Creator для разработки приложений под android ОС, изучены базовые понятия связанные с мобильой разработкой, а также приобретены навыки для создавания мобильных приложения при помощи фреймворка Qt 5.14.
