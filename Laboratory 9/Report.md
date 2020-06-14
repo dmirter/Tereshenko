@@ -31,7 +31,7 @@
 
 Исходные файлы: [*тык*](https://github.com/dmirter/Tereshenko/tree/master/Laboratory%209/Program)
  
-**1. Проверка на работоспообность пустого тестового проекта
+**1. Проверка на работоспообность пустого тестового проекта**
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%209/img/1.png)
 
@@ -41,13 +41,13 @@
 
 рис 2. Проверка через QT.
 
-**2. Настройка тестового проекта
+**2. Настройка тестового проекта**
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%209/img/4.png)
 
 рис 3. Вставленная строка
 
-**3. Конечный результат.
+**3. Конечный результат.**
 
 ![](https://github.com/dmirter/Tereshenko/blob/master/Laboratory%209/img/3.png)
 
